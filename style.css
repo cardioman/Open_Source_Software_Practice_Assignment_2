@@ -1,0 +1,12 @@
+#header{
+    text-align: center;
+}
+#results{
+    padding: 15px;
+}
+#wrapper{
+    margin:auto;
+}
+.year{
+    text-decoration: underline;
+}
